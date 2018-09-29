@@ -13,7 +13,8 @@ export default {
       routes: {
         exclude: [],
       },
-      hardSource: true,
+      hardSource: false,
+      publicPath: 'http://www.zhaohui.wiki/test',
     }], 
   ],
-} 
+}
